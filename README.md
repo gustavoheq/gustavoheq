@@ -84,8 +84,8 @@ Participei do **Start Tech - Imersão Cloud** pela **TOTVS**, com foco em:
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoheq&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoheq&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoheq&show_icons=true&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoheq&layout=compact&theme=dracula" width="344" />
 </p>
 
 ---
