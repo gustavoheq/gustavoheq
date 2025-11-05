@@ -96,7 +96,7 @@ Participei do **Start Tech - Imersão Cloud** pela **TOTVS**, com foco em:
 📞 +55 (11) 98012-8367  
 📧 [gustavomirandaoliveira@outlook.com](mailto:gustavomirandaoliveira@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavohnrique)  
-💼 [Portfólio no GitHub](https://github.com/gustavoheq)
+💼 [Portfólio](https://portfoliogustavo.vercel.app/)
 
 ---
 
