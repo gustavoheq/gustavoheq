@@ -125,7 +125,7 @@ Sou dedicado, curioso e gosto de aprender novas tecnologias. Atualmente, busco u
 - 📧 gustavomirandaoliveira@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavohnrique)
 - 💻 [GitHub](https://github.com/gustavoheq)
-- 🌐 [Portfólio](https:/gustavoheq.github.io/Portfolio/)
+- 🌐 [Portfólio](https://gustavoheq.github.io/Portfolio/)
 
 ---
 
