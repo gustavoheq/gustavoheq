@@ -14,7 +14,7 @@
 
 Sou estudante e entusiasta da área de Tecnologia da Informação, com interesse em desenvolvimento de software, programação, infraestrutura e computação em nuvem.
 
-Minha trajetória inclui estudos em Sistemas de Informação pela Anhanguera, formação em Desenvolvimento Web Full Stack pela Gama Academy e participação no programa Start Tech, da TOTVS em parceria com o Instituto da Oportunidade Social (IOS), com foco em Cloud Computing.
+Minha trajetória inclui estudos em Sistemas de Informação pela Anhanguera, formação em Desenvolvimento Web Full Stack pela Gama Academy e participação no programa Start Tech, da TOTVS em parceria com o Instituto Percorre, com foco em Cloud Computing.
 
 Possuo conhecimentos em JavaScript, Python, HTML, CSS, React, Node.js, Linux, Git, GitHub e Google Cloud.
 
